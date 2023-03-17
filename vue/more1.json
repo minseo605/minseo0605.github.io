@@ -1,0 +1,10 @@
+
+    {
+        "name": "mingee",
+        "userImage": "https://placeimg.com/100/100/arch",
+        "postImage": "https://placeimg.com/640/480/animals",
+        "likes": 300,
+        "liked": false,
+        "content": "nananan",
+        "filter": "perpetua"
+    }
